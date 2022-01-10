@@ -1,4 +1,4 @@
-public class Code  {
+public class main  {
 	
 
 	
